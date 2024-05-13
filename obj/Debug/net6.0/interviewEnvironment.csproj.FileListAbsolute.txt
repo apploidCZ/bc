@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\bin\Debug\net6.0\interviewEnvironment.exe
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\bin\Debug\net6.0\interviewEnvironment.deps.json
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\bin\Debug\net6.0\interviewEnvironment.runtimeconfig.json
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\bin\Debug\net6.0\interviewEnvironment.dll
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\bin\Debug\net6.0\interviewEnvironment.pdb
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\obj\Debug\net6.0\interviewEnvironment.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\obj\Debug\net6.0\interviewEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\obj\Debug\net6.0\interviewEnvironment.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\obj\Debug\net6.0\interviewEnvironment.AssemblyInfo.cs
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\obj\Debug\net6.0\interviewEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\obj\Debug\net6.0\interviewEnvironment.dll
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\obj\Debug\net6.0\refint\interviewEnvironment.dll
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\obj\Debug\net6.0\interviewEnvironment.pdb
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\obj\Debug\net6.0\interviewEnvironment.genruntimeconfig.cache
+C:\Users\Admin\Documents\pohovor\interviewEnvironment\obj\Debug\net6.0\ref\interviewEnvironment.dll
